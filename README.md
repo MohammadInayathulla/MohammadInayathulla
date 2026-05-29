@@ -1,6 +1,6 @@
 # Hi, I'm Mohammed Inayathulla 👋
 
-B.E. AI & ML Graduate from City Engineering College, VTU Bengaluru (CGPA: 8.05 | 8th Sem SGPA: 10.0)
+B.E. AI & ML Graduate from City Engineering College, VTU Bengaluru (CGPA: 8.05 )
 
 ---
 
