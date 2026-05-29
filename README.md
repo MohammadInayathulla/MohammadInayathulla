@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Mohammed Inayathulla 👋
 
-<!--
-**MohammadInayathulla/MohammadInayathulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.E. AI & ML Graduate from City Engineering College, VTU Bengaluru (CGPA: 8.05 | 8th Sem SGPA: 10.0)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I work with
+`Python` `TensorFlow` `Scikit-learn` `Pandas` `NumPy` `Streamlit` `Google Earth Engine` `GitHub`
+
+---
+
+### 🚀 Projects
+- **[Project Shadow Map](https://github.com/MohammadInayathulla/unseen_population_marker)** — CNN-based detection of informal settlements using satellite imagery (Sentinel-2, Landsat-8, VIIRS) | UN SDG 11
+- **Fake News Detection** — Hybrid TF-IDF + MobileNetV2 model with 4,839-feature vector, deployed via Streamlit
+- **Digital Content Safety Filter** — ML image classifier for safe vs. harmful content | UN SDG 16
+- **Anomaly Detection in Healthcare** — Supervised ML + real-time Streamlit dashboard
+
+---
+
+### 📫 Reach me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammed-inayathulla711)
+[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:mdinayath7860@gmail.com)
+
+---
+
+![Python](https://img.shields.io/badge/Open%20To%20Work-✅-brightgreen)
