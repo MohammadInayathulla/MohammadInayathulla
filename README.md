@@ -10,10 +10,9 @@ B.E. AI & ML Graduate from City Engineering College, VTU Bengaluru (CGPA: 8.05 )
 ---
 
 ### 🚀 Projects
+- **[NeedleDB](https://github.com/MohammadInayathulla/NeedleDB)** — Vector database built from scratch in Python; implements HNSW, KD-Tree, and Brute Force search side-by-side with a RAG pipeline powered by a local LLM via Ollama
 - **[Project Shadow Map](https://github.com/MohammadInayathulla/unseen_population_marker)** — CNN-based detection of informal settlements using satellite imagery (Sentinel-2, Landsat-8, VIIRS) | UN SDG 11
-- **Fake News Detection** — Hybrid TF-IDF + MobileNetV2 model with 4,839-feature vector, deployed via Streamlit
-- **Digital Content Safety Filter** — ML image classifier for safe vs. harmful content | UN SDG 16
-- **Anomaly Detection in Healthcare** — Supervised ML + real-time Streamlit dashboard
+- **[Fake News Detection](https://github.com/MohammadInayathulla/fake-news-detector)** — Multimodal fake news detector fusing Sentence Transformers + MobileNetV2, with LIME explainability and Groq LLM-generated reasoning | 88.5% accuracy
 
 ---
 
